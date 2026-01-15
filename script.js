@@ -12,13 +12,3 @@ document.addEventListener("DOMContentLoaded", () => {
     window.open(url, "_blank");
   });
 });
-④ GitHub でimages フォルダにimage.pngをアップロード
-（ゲームの1画面をスクリーンショットし、ファイル名image.pngを作成している前提）
-「Add file」をクリック
-「Create new file」を押す
-ファイル名に次を入力
-images/.gitkeep
-images/ と入力すると フォルダが作れる
-一番下の緑ボタン「Commit new file」を押す
-images フォルダの上で右クリック →「Upload…」から image.png をアップロード
-（またはドラッグ＆ドロップ）
